@@ -1,0 +1,31 @@
+{
+    "position": 1,
+    "title": "Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC",
+    "result_id": "r4fFYUoh6BYJ",
+    "type": "Html",
+    "link": "https://www.sciencedirect.com/science/article/pii/S037026931200857X",
+    "snippet": "A search for the Standard Model Higgs boson in proton–proton collisions with the ATLAS detector at the LHC is presented. The datasets used correspond to integrated luminosities of approximately 4.8 fb− 1 collected at s= 7 TeV in 2011 and 5.8 fb− 1 at s= 8 TeV in 2012 …",
+    "publication_info": {
+        "summary": "…, G Akimoto, AV Akimov, MS Alam, MA Alam… - Physics Letters B, 2012 - Elsevier"
+    },
+    "resources": [{
+        "title": "sciencedirect.com",
+        "file_format": "HTML",
+        "link": "https://www.sciencedirect.com/science/article/pii/S037026931200857X"
+    }],
+    "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=r4fFYUoh6BYJ&token=1db39c4636b9d1eb",
+        "html_version": "https://scholar.google.comhttps://www.sciencedirect.com/science/article/pii/S037026931200857X",
+        "cited_by": {
+            "total": 15715,
+            "link": "https://scholar.google.com/scholar?cites=1650605866782918575&as_sdt=40000005&sciodt=0,22&hl=en",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?cites=1650605866782918575&engine=google_scholar&hl=en&q=author%3Aalam&token=dfe1c80a8fd80b94"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:r4fFYUoh6BYJ:scholar.google.com/&scioq=author:alam&hl=en&as_sdt=0,22",
+        "versions": {
+            "total": 89,
+            "link": "https://scholar.google.com/scholar?cluster=1650605866782918575&hl=en&as_sdt=0,22",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?cluster=1650605866782918575&engine=google_scholar&hl=en&q=author%3Aalam&token=9cea9adec53a1c59"
+        }
+    }
+}
